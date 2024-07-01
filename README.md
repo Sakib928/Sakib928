@@ -1,9 +1,8 @@
-## Hi there 👋
+#👋 Hi there, I'm Sakibul Hasan!
 
+### 🌐 Web Developer | 💻 C++ Enthusiast
 
-**Sakib928/Sakib928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate web developer with a knack for creating dynamic and responsive web applications. My journey in coding has equipped me with skills in both front-end and back-end development, and I'm always eager to learn and take on new challenges.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
