@@ -32,6 +32,6 @@ Welcome to my GitHub profile! I'm a passionate web developer with a knack for cr
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sakib928)
+- LinkedIn: [Sakibul Hasan](https://www.linkedin.com/in/sakib928)
 - Email: [sakibhasan928360@gmail.com](mailto:sakibhasan928360@gmail.com)
 
