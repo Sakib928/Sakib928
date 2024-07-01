@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a knack for cr
 - Typescript
 ## 📈 GitHub Stats
 
-![Sakibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saskib928&show_icons=true&theme=radical)
+![Sakibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakib928&theme=transparent&show_icons=true)
 
 ## 📫 Get in Touch
 
