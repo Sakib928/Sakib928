@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a knack for cr
 
 ## 🚀 Skills and Technologies : 
 
-- ###Front-End Development:
+- **Front-End Development**:
 
   <p align='center'>
 
