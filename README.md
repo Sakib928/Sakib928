@@ -6,18 +6,49 @@ Welcome to my GitHub profile! I'm a passionate web developer with a knack for cr
 
 ## 🚀 Skills and Technologies : 
 
-- **Front-End Development**:
+- ###Front-End Development:
 
   <p align='center'>
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/html/html_intro.asp">
     <img
-      src="https://w7.pngwing.com/pngs/862/624/png-transparent-aws-vector-brand-logos-icon.png"
-      alt="AWS"
+      src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle.png"
+      alt="HTML 5"
       width="40"
       height="40" />
   </a>
 
+  <a href="https://www.w3schools.com/css/css_intro.asp">
+    <img
+      src="https://w7.pngwing.com/pngs/393/49/png-transparent-css-logo.png"
+      alt="CSS 3"
+      width="40"
+      height="40" />
+  </a>
+
+  <a href="https://www.w3schools.com/js/js_intro.asp">
+    <img
+      src="https://w7.pngwing.com/pngs/503/848/png-transparent-javascript-computer-icons-software-developer-cascading-style-sheets-javascript-logo-angle-text-rectangle.png"
+      alt="Javascript"
+      width="40"
+      height="40" />
+  </a>
+
+  <a href="https://www.w3schools.com/react/react_intro.asp">
+    <img
+      src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon.png"
+      alt="React"
+      width="40"
+      height="40" />
+  </a>
+
+  <a href="https://tailwindcss.com/docs/installation">
+    <img
+      src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png"
+      alt="TailwindCSS"
+      width="40"
+      height="40" />
+  </a>
   </p>
 
 
