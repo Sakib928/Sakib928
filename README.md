@@ -1,20 +1,30 @@
 # 👋 Hi there, I'm Sakibul Hasan!
 
-### 🌐 Web Developer | 💻 C++ Enthusiast
+## 🌐 Web Developer | 💻 C++ Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate web developer with a knack for creating dynamic and responsive web applications. My journey in coding has equipped me with skills in both front-end and back-end development, and I'm always eager to learn and take on new challenges.
 
-## 🚀 Skills and Technologies
+## 🚀 Skills and Technologies : 
 
-- **Front-End Development:**
-  - HTML
-  - CSS
-  - JavaScript
-  - React
+- ###Front-End Development:
+
+  <p align='center'>
+
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://w7.pngwing.com/pngs/862/624/png-transparent-aws-vector-brand-logos-icon.png"
+      alt="AWS"
+      width="40"
+      height="40" />
+  </a>
+
+  </p>
+
 
 - **Back-End Development:**
   - Node.js
   - express js
+  
 
 ## 🔧 Tools and Utilities
 
